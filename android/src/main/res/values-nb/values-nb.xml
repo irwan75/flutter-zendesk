@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">Velg et vedlegg</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">Du har valgt %d vedlegg</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">Du har ikke valgt noen vedlegg</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">Du har valgt ett vedlegg</string>
+    <string name="zui_bot_label">BOT</string>
+    <string name="zui_button_label_no">Nei</string>
+    <string name="zui_button_label_yes">Ja</string>
+    <string name="zui_cell_text_suggested_article_header">Her har du en artikkel som kan være til hjelp:</string>
+    <string name="zui_cell_text_suggested_articles_header">Her har du noen artikler som kan være til hjelp:</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">Ugyldig e-postadresse</string>
+    <string name="zui_dialog_email_hint">E-postadresse</string>
+    <string name="zui_failed_message_copy">Kopier</string>
+    <string name="zui_failed_message_delete">Slett</string>
+    <string name="zui_failed_message_retry">Prøv på nytt</string>
+    <string name="zui_hint_type_message">Skriv en beskjed…</string>
+    <string name="zui_label_connecting">Kobler til…</string>
+    <string name="zui_label_dialog_delete_btn">Slett melding</string>
+    <string name="zui_label_dialog_retry_btn">Prøv å sende på nytt</string>
+    <string name="zui_label_failed">Mislyktes</string>
+    <string name="zui_label_reconnecting">Kobler til igjen ...</string>
+    <string name="zui_label_reconnecting_failed">Kan ikke koble til.</string>
+    <string name="zui_label_send">Send</string>
+    <string name="zui_label_sent">Sendt</string>
+    <string name="zui_label_tap_retry">Trykk for å prøve igjen</string>
+    <string name="zui_message_log_article_opened_formatter">%1$s åpnet artikkelen \'%2$s\'</string>
+    <string name="zui_message_log_article_suggestion_message">Jeg fant disse artiklene:</string>
+    <string name="zui_message_log_attachment_sending_failed">Vedlegget kunne ikke sendes</string>
+    <string name="zui_message_log_default_visitor_name">Besøkende</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">Vedleggstypen støttes ikke</string>
+    <string name="zui_message_log_message_attachments_not_supported">Vedlegg støttes ikke</string>
+    <string name="zui_message_log_message_failed_to_send">[Kunne ikke sende]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">Overskrider maksimal filstørrelse (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">%1$s valgte %2$s</string>
+    <string name="zui_retry_button_label">Prøv på nytt</string>
+    <string name="zui_toolbar_title">Ta kontakt med oss</string>
+    <string name="zui_unable_open_file">Kan ikke åpne filen.</string>
+</resources>

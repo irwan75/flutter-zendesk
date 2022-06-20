@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">Wybierz załącznik</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">Wybrano załączniki: %d</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">Nie wybrano żadnych załączników</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">Wybrano jeden załącznik</string>
+    <string name="zui_bot_label">BOT</string>
+    <string name="zui_button_label_no">Nie</string>
+    <string name="zui_button_label_yes">Tak</string>
+    <string name="zui_cell_text_suggested_article_header">Oto artykuł, który może pomóc:</string>
+    <string name="zui_cell_text_suggested_articles_header">Oto parę artykułów, które mogą pomóc:</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">Nieprawidłowy adres e-mail</string>
+    <string name="zui_dialog_email_hint">Adres e-mail</string>
+    <string name="zui_failed_message_copy">Kopiuj</string>
+    <string name="zui_failed_message_delete">Usuń</string>
+    <string name="zui_failed_message_retry">Ponów próbę</string>
+    <string name="zui_hint_type_message">Napisz wiadomość...</string>
+    <string name="zui_label_connecting">Łączenie…</string>
+    <string name="zui_label_dialog_delete_btn">Usuń wiadomość</string>
+    <string name="zui_label_dialog_retry_btn">Ponów próbę wysłania</string>
+    <string name="zui_label_failed">Niepowodzenie</string>
+    <string name="zui_label_reconnecting">Ponowne łączenie…</string>
+    <string name="zui_label_reconnecting_failed">Niepowodzenie połączenia.</string>
+    <string name="zui_label_send">Wyślij</string>
+    <string name="zui_label_sent">Wysłano</string>
+    <string name="zui_label_tap_retry">Stuknij, aby spróbować ponownie</string>
+    <string name="zui_message_log_article_opened_formatter">%1$s otworzył(a) artykuł \„%2$s\”</string>
+    <string name="zui_message_log_article_suggestion_message">Proponuję następujące artykuły:</string>
+    <string name="zui_message_log_attachment_sending_failed">Nie udało się wysłać załącznika</string>
+    <string name="zui_message_log_default_visitor_name">Gość</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">Nieobsługiwany typ załącznika</string>
+    <string name="zui_message_log_message_attachments_not_supported">Nieobsługiwane załączniki</string>
+    <string name="zui_message_log_message_failed_to_send">[Nie udało się wysłać]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">Przekracza maksymalny rozmiar pliku (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">%1$s wybrał(a) %2$s</string>
+    <string name="zui_retry_button_label">Ponów próbę</string>
+    <string name="zui_toolbar_title">Kontakt z nami</string>
+    <string name="zui_unable_open_file">Nie można otworzyć pliku.</string>
+</resources>

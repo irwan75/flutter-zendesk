@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">Selecteer een bijlage</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">Er zijn %d bijlagen geselecteerd</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">Er zijn geen bijlagen geselecteerd</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">Er is 1 bijlage geselecteerd</string>
+    <string name="zui_bot_label">BOT</string>
+    <string name="zui_button_label_no">Nee</string>
+    <string name="zui_button_label_yes">Ja</string>
+    <string name="zui_cell_text_suggested_article_header">Hier is een artikel dat mogelijk nuttig is:</string>
+    <string name="zui_cell_text_suggested_articles_header">Hier zijn enkele artikelen die mogelijk nuttig zijn:</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">Ongeldig e-mailadres</string>
+    <string name="zui_dialog_email_hint">E-mailadres</string>
+    <string name="zui_failed_message_copy">Kopiëren</string>
+    <string name="zui_failed_message_delete">Verwijderen</string>
+    <string name="zui_failed_message_retry">Opnieuw</string>
+    <string name="zui_hint_type_message">Typ een bericht…</string>
+    <string name="zui_label_connecting">Verbinding maken…</string>
+    <string name="zui_label_dialog_delete_btn">Bericht verwijderen</string>
+    <string name="zui_label_dialog_retry_btn">Opnieuw proberen te verzenden</string>
+    <string name="zui_label_failed">Mislukt</string>
+    <string name="zui_label_reconnecting">Opnieuw verbinding maken…</string>
+    <string name="zui_label_reconnecting_failed">Verbinding mislukt</string>
+    <string name="zui_label_send">Verzenden</string>
+    <string name="zui_label_sent">Verzonden</string>
+    <string name="zui_label_tap_retry">Tik om het opnieuw te proberen</string>
+    <string name="zui_message_log_article_opened_formatter">%1$s heeft het artikel \'%2$s\' geopend</string>
+    <string name="zui_message_log_article_suggestion_message">Ik heb deze artikelen gevonden:</string>
+    <string name="zui_message_log_attachment_sending_failed">Bijlage kan niet worden verzonden</string>
+    <string name="zui_message_log_default_visitor_name">Bezoeker</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">Type bijlage wordt niet ondersteund</string>
+    <string name="zui_message_log_message_attachments_not_supported">Bijlagen worden niet ondersteund</string>
+    <string name="zui_message_log_message_failed_to_send">[Verzenden mislukt]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">Overschrijdt maximale bestandsgrootte (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">%1$s heeft %2$s geselecteerd</string>
+    <string name="zui_retry_button_label">Opnieuw</string>
+    <string name="zui_toolbar_title">Contact</string>
+    <string name="zui_unable_open_file">Kan het bestand niet openen.</string>
+</resources>

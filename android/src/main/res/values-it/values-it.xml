@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">Seleziona un allegato</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">Selezionati %d allegati</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">Nessun allegato selezionato</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">Selezionato un allegato</string>
+    <string name="zui_bot_label">BOT</string>
+    <string name="zui_button_label_no">No</string>
+    <string name="zui_button_label_yes">Sì</string>
+    <string name="zui_cell_text_suggested_article_header">Ecco un articolo che può aiutare:</string>
+    <string name="zui_cell_text_suggested_articles_header">Ecco alcuni articoli che possono aiutare:</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">Indirizzo email non valido.</string>
+    <string name="zui_dialog_email_hint">Indirizzo email</string>
+    <string name="zui_failed_message_copy">Copia</string>
+    <string name="zui_failed_message_delete">Elimina</string>
+    <string name="zui_failed_message_retry">Riprova</string>
+    <string name="zui_hint_type_message">Scrivi un messaggio…</string>
+    <string name="zui_label_connecting">Collegamento…</string>
+    <string name="zui_label_dialog_delete_btn">Elimina messaggio</string>
+    <string name="zui_label_dialog_retry_btn">Ritenta invio</string>
+    <string name="zui_label_failed">Invio non riuscito</string>
+    <string name="zui_label_reconnecting">Riconnessione…</string>
+    <string name="zui_label_reconnecting_failed">Connessione non riuscita.</string>
+    <string name="zui_label_send">Invia</string>
+    <string name="zui_label_sent">Inviato</string>
+    <string name="zui_label_tap_retry">Tocca per riprovare</string>
+    <string name="zui_message_log_article_opened_formatter">%1$s ha aperto l’articolo \“%2$s\”</string>
+    <string name="zui_message_log_article_suggestion_message">Ho trovato questi articoli:</string>
+    <string name="zui_message_log_attachment_sending_failed">Impossibile inviare l’allegato</string>
+    <string name="zui_message_log_default_visitor_name">Visitatore</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">Tipo di allegato non supportato</string>
+    <string name="zui_message_log_message_attachments_not_supported">Allegati non supportati</string>
+    <string name="zui_message_log_message_failed_to_send">[Invio non riuscito]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">Il file supera le dimensioni massime (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">%1$s ha selezionato %2$s</string>
+    <string name="zui_retry_button_label">Riprova</string>
+    <string name="zui_toolbar_title">Contattaci</string>
+    <string name="zui_unable_open_file">Impossibile aprire il file.</string>
+</resources>

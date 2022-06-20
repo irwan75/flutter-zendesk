@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">Seleccione un archivo adjunto</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">Hay %d archivos adjuntos seleccionados</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">No hay ningún archivo adjunto seleccionado</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">Hay un archivo adjunto seleccionado</string>
+    <string name="zui_bot_label">BOT</string>
+    <string name="zui_button_label_no">No</string>
+    <string name="zui_button_label_yes">Sí</string>
+    <string name="zui_cell_text_suggested_article_header">Este artículo podría ser útil:</string>
+    <string name="zui_cell_text_suggested_articles_header">Estos son algunos artículos que podrían ser útiles:</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">Correo electrónico no válido</string>
+    <string name="zui_dialog_email_hint">Dirección de correo electrónico</string>
+    <string name="zui_failed_message_copy">Copiar</string>
+    <string name="zui_failed_message_delete">Borrar</string>
+    <string name="zui_failed_message_retry">Volver a intentar</string>
+    <string name="zui_hint_type_message">Escriba un mensaje…</string>
+    <string name="zui_label_connecting">Conectando…</string>
+    <string name="zui_label_dialog_delete_btn">Borrar mensaje</string>
+    <string name="zui_label_dialog_retry_btn">Volver a intentar</string>
+    <string name="zui_label_failed">Falló</string>
+    <string name="zui_label_reconnecting">Volviendo a conectarse…</string>
+    <string name="zui_label_reconnecting_failed">Falló la conexión.</string>
+    <string name="zui_label_send">Enviar</string>
+    <string name="zui_label_sent">Enviado</string>
+    <string name="zui_label_tap_retry">Tocar para volver a intentar</string>
+    <string name="zui_message_log_article_opened_formatter">%1$s abrió el artículo \“%2$s\”</string>
+    <string name="zui_message_log_article_suggestion_message">Encontré estos artículos:</string>
+    <string name="zui_message_log_attachment_sending_failed">No se pudo enviar el archivo adjunto</string>
+    <string name="zui_message_log_default_visitor_name">Visitante</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">No se admite este tipo de archivo adjunto</string>
+    <string name="zui_message_log_message_attachments_not_supported">No se admiten archivos adjuntos</string>
+    <string name="zui_message_log_message_failed_to_send">[No se pudo enviar]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">Excede el tamaño máximo del archivo (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">%1$s seleccionó %2$s</string>
+    <string name="zui_retry_button_label">Volver a intentar</string>
+    <string name="zui_toolbar_title">Contáctenos</string>
+    <string name="zui_unable_open_file">No se puede abrir el archivo.</string>
+</resources>

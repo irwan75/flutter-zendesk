@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">Selectați un fișier atașat</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">Sunt selectate %d fișiere atașate</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">Nu sunt selectate fișiere atașate</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">Este selectat un fișier atașat</string>
+    <string name="zui_bot_label">BOT</string>
+    <string name="zui_button_label_no">Nu</string>
+    <string name="zui_button_label_yes">Da</string>
+    <string name="zui_cell_text_suggested_article_header">Iată un articol care vă poate ajuta:</string>
+    <string name="zui_cell_text_suggested_articles_header">Iată câteva articole care vă pot ajuta:</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">E-mail nevalid</string>
+    <string name="zui_dialog_email_hint">Adresa de e-mail</string>
+    <string name="zui_failed_message_copy">Copiere</string>
+    <string name="zui_failed_message_delete">Ștergere</string>
+    <string name="zui_failed_message_retry">Reîncercați</string>
+    <string name="zui_hint_type_message">Tastați un mesaj…</string>
+    <string name="zui_label_connecting">Se conectează…</string>
+    <string name="zui_label_dialog_delete_btn">Ștergere mesaj</string>
+    <string name="zui_label_dialog_retry_btn">Reîncercare retrimitere</string>
+    <string name="zui_label_failed">Eșuat</string>
+    <string name="zui_label_reconnecting">Se reconectează...</string>
+    <string name="zui_label_reconnecting_failed">Conexiunea a eșuat.</string>
+    <string name="zui_label_send">Trimitere</string>
+    <string name="zui_label_sent">Trimis</string>
+    <string name="zui_label_tap_retry">Atingeți pentru a reîncerca</string>
+    <string name="zui_message_log_article_opened_formatter">%1$s a deschis articolul \'%2$s\'</string>
+    <string name="zui_message_log_article_suggestion_message">Am găsit aceste articole:</string>
+    <string name="zui_message_log_attachment_sending_failed">Fișierul atașat nu a putut fi trimis</string>
+    <string name="zui_message_log_default_visitor_name">Vizitator</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">Tipul de fișier atașat nu este acceptat</string>
+    <string name="zui_message_log_message_attachments_not_supported">Fișierele atașate nu sunt acceptate</string>
+    <string name="zui_message_log_message_failed_to_send">[Trimiterea a eșuat]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">Depășește dimensiunea maximă a fișierului (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">%1$s a selectat %2$s</string>
+    <string name="zui_retry_button_label">Reîncercați</string>
+    <string name="zui_toolbar_title">Contactați-ne</string>
+    <string name="zui_unable_open_file">Nu se poate deschide fișierul.</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">添付ファイルを選択してください</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">%d個の添付ファイルが選択されています</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">添付ファイルが選択されていません</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">1個の添付ファイルが選択されています</string>
+    <string name="zui_bot_label">ボット</string>
+    <string name="zui_button_label_no">いいえ</string>
+    <string name="zui_button_label_yes">はい</string>
+    <string name="zui_cell_text_suggested_article_header">次の記事がお役に立つかもしれません:</string>
+    <string name="zui_cell_text_suggested_articles_header">次の記事がお役に立つかもしれません:</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">無効なメール</string>
+    <string name="zui_dialog_email_hint">メールアドレス</string>
+    <string name="zui_failed_message_copy">コピー</string>
+    <string name="zui_failed_message_delete">削除</string>
+    <string name="zui_failed_message_retry">再試行</string>
+    <string name="zui_hint_type_message">メッセージを入力...</string>
+    <string name="zui_label_connecting">接続中...</string>
+    <string name="zui_label_dialog_delete_btn">メッセージを削除</string>
+    <string name="zui_label_dialog_retry_btn">再送信</string>
+    <string name="zui_label_failed">エラー</string>
+    <string name="zui_label_reconnecting">再接続中...</string>
+    <string name="zui_label_reconnecting_failed">接続に失敗しました。</string>
+    <string name="zui_label_send">送信</string>
+    <string name="zui_label_sent">送信済み</string>
+    <string name="zui_label_tap_retry">タップして再送信</string>
+    <string name="zui_message_log_article_opened_formatter">%1$sが記事 \'%2$s\' を開きました</string>
+    <string name="zui_message_log_article_suggestion_message">これらの記事を見つけました:</string>
+    <string name="zui_message_log_attachment_sending_failed">添付ファイルを送信できませんでした</string>
+    <string name="zui_message_log_default_visitor_name">訪問者</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">添付ファイルの種類はサポートされていません</string>
+    <string name="zui_message_log_message_attachments_not_supported">サポートされていない添付ファイル</string>
+    <string name="zui_message_log_message_failed_to_send">[送信できませんでした]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">最大ファイルサイズ (%1$s) を超えています</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">%1$sさんが%2$sを選択しました</string>
+    <string name="zui_retry_button_label">再試行</string>
+    <string name="zui_toolbar_title">お問い合わせ</string>
+    <string name="zui_unable_open_file">ファイルをオープンできません。</string>
+</resources>

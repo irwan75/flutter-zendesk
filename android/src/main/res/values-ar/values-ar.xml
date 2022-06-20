@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">تحديد مرفق</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">المرفقات المحددة: ‎%d</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">لا توجد مرفقات محددة</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">يوجد مرفق واحد محدد</string>
+    <string name="zui_bot_label">روبوت</string>
+    <string name="zui_button_label_no">لا</string>
+    <string name="zui_button_label_yes">نعم</string>
+    <string name="zui_cell_text_suggested_article_header">قد يكون المقال التالي مفيداً:</string>
+    <string name="zui_cell_text_suggested_articles_header">فيما يلي بعض المقالات التي قد تفيد:</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">بريد إلكتروني غير صالح</string>
+    <string name="zui_dialog_email_hint">عنوان البريد الإلكتروني</string>
+    <string name="zui_failed_message_copy">نسخ</string>
+    <string name="zui_failed_message_delete">حذف</string>
+    <string name="zui_failed_message_retry">إعادة المحاولة</string>
+    <string name="zui_hint_type_message">اكتب رسالة...</string>
+    <string name="zui_label_connecting">جارٍ الاتصال...</string>
+    <string name="zui_label_dialog_delete_btn">حذف الرسالة</string>
+    <string name="zui_label_dialog_retry_btn">إعادة محاولة الإرسال</string>
+    <string name="zui_label_failed">فشل</string>
+    <string name="zui_label_reconnecting">جارٍ إعادة الاتصال...</string>
+    <string name="zui_label_reconnecting_failed">فشل الاتصال.</string>
+    <string name="zui_label_send">إرسال</string>
+    <string name="zui_label_sent">تم الإرسال</string>
+    <string name="zui_label_tap_retry">اضغط لإعادة المحاولة</string>
+    <string name="zui_message_log_article_opened_formatter">%1$s فتح المقال \'%2$s\'</string>
+    <string name="zui_message_log_article_suggestion_message">وجدت المقالات التالية:</string>
+    <string name="zui_message_log_attachment_sending_failed">يتعذر إرسال المرفق</string>
+    <string name="zui_message_log_default_visitor_name">الزائر</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">نوع المرفق غير مدعوم</string>
+    <string name="zui_message_log_message_attachments_not_supported">المرفقات غير مدعومة</string>
+    <string name="zui_message_log_message_failed_to_send">[فشل الإرسال]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">يتجاوز أقصى حجم للملف (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">%1$s حدَّد %2$s</string>
+    <string name="zui_retry_button_label">إعادة المحاولة</string>
+    <string name="zui_toolbar_title">اتصل بنا</string>
+    <string name="zui_unable_open_file">تعذر فتح الملف.</string>
+</resources>

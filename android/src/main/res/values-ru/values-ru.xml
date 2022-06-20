@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">Выбор прикрепленного файла</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">Выбрано прикрепленных файлов: %d</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">Не выбрано ни одного прикрепленного файла</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">Выбран один прикрепленный файл</string>
+    <string name="zui_bot_label">БОТ</string>
+    <string name="zui_button_label_no">Нет</string>
+    <string name="zui_button_label_yes">Да</string>
+    <string name="zui_cell_text_suggested_article_header">Вот статья, которая может вам помочь:</string>
+    <string name="zui_cell_text_suggested_articles_header">Вот несколько статей, которые могут вам помочь:</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">Недопустимый адрес эл. почты</string>
+    <string name="zui_dialog_email_hint">Адрес электронной почты</string>
+    <string name="zui_failed_message_copy">Копировать</string>
+    <string name="zui_failed_message_delete">Удалить</string>
+    <string name="zui_failed_message_retry">Повторить</string>
+    <string name="zui_hint_type_message">Введите сообщение…</string>
+    <string name="zui_label_connecting">Соединяется...</string>
+    <string name="zui_label_dialog_delete_btn">Удалить сообщение</string>
+    <string name="zui_label_dialog_retry_btn">Повторить отправку</string>
+    <string name="zui_label_failed">Ошибка</string>
+    <string name="zui_label_reconnecting">Восстановление подключения...</string>
+    <string name="zui_label_reconnecting_failed">Сбой подключения.</string>
+    <string name="zui_label_send">Отправить</string>
+    <string name="zui_label_sent">Отправлено</string>
+    <string name="zui_label_tap_retry">Нажмите, чтобы попробовать снова</string>
+    <string name="zui_message_log_article_opened_formatter">Пользователь %1$s открыл статью \«%2$s\»</string>
+    <string name="zui_message_log_article_suggestion_message">Найдены такие статьи:</string>
+    <string name="zui_message_log_attachment_sending_failed">Не удалось отправить прикрепленный файл</string>
+    <string name="zui_message_log_default_visitor_name">Посетитель</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">Тип файла не поддерживается</string>
+    <string name="zui_message_log_message_attachments_not_supported">Прикрепление файлов не поддерживается</string>
+    <string name="zui_message_log_message_failed_to_send">[Не удалось отправить]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">Превышен максимальный размер файла (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">%1$s выбрал(а) %2$s</string>
+    <string name="zui_retry_button_label">Повторить</string>
+    <string name="zui_toolbar_title">Свяжитесь с нами</string>
+    <string name="zui_unable_open_file">Не удалось открыть файл.</string>
+</resources>

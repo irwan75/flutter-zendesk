@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">Csatolmány kiválasztása</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">%d csatolmány van kiválasztva</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">Nincsenek csatolmányok kiválasztva</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">Egy csatolmány van kiválasztva</string>
+    <string name="zui_bot_label">ROBOT</string>
+    <string name="zui_button_label_no">Nem</string>
+    <string name="zui_button_label_yes">Igen</string>
+    <string name="zui_cell_text_suggested_article_header">Ez a cikk segíthet:</string>
+    <string name="zui_cell_text_suggested_articles_header">Ezek a cikkek segíthetnek:</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">Érvénytelen e-mail-cím</string>
+    <string name="zui_dialog_email_hint">E-mail-cím</string>
+    <string name="zui_failed_message_copy">Másolás</string>
+    <string name="zui_failed_message_delete">Törlés</string>
+    <string name="zui_failed_message_retry">Újra</string>
+    <string name="zui_hint_type_message">Írja be üzenetét…</string>
+    <string name="zui_label_connecting">Kapcsolódás…</string>
+    <string name="zui_label_dialog_delete_btn">Üzenet törlése</string>
+    <string name="zui_label_dialog_retry_btn">Újraküldés</string>
+    <string name="zui_label_failed">Sikertelen</string>
+    <string name="zui_label_reconnecting">Újracsatlakozás…</string>
+    <string name="zui_label_reconnecting_failed">A csatlakozás nem sikerült.</string>
+    <string name="zui_label_send">Küldés</string>
+    <string name="zui_label_sent">Elküldve</string>
+    <string name="zui_label_tap_retry">Koppintson a küldés megismétléséhez</string>
+    <string name="zui_message_log_article_opened_formatter">%1$s megnyitotta a következő cikket: \„%2$s\”</string>
+    <string name="zui_message_log_article_suggestion_message">Ezeket a cikkeket találtam:</string>
+    <string name="zui_message_log_attachment_sending_failed">A mellékletet nem lehet elküldeni</string>
+    <string name="zui_message_log_default_visitor_name">Látogató</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">A melléklettípus nem támogatott</string>
+    <string name="zui_message_log_message_attachments_not_supported">A mellékletek nem támogatottak</string>
+    <string name="zui_message_log_message_failed_to_send">[A küldés sikertelen]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">A fájl mérete meghaladja a megengedett méretet (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">A(z) %1$s kijelölte ezt: %2$s</string>
+    <string name="zui_retry_button_label">Újra</string>
+    <string name="zui_toolbar_title">Kapcsolat</string>
+    <string name="zui_unable_open_file">A fájl nem nyitható meg.</string>
+</resources>

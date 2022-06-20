@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zui_attachment_indicator_accessibility">Sélectionnez une pièce jointe</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility">Il y a %d pièces jointes sélectionnées</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility">Il n’y a aucune pièce jointe sélectionnée</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility">Une pièce jointe sélectionnée</string>
+    <string name="zui_bot_label">BOT</string>
+    <string name="zui_button_label_no">Non</string>
+    <string name="zui_button_label_yes">Oui</string>
+    <string name="zui_cell_text_suggested_article_header">Voici un article qui pourrait être utile :</string>
+    <string name="zui_cell_text_suggested_articles_header">Voici des articles qui pourraient être utiles :</string>
+    <string name="zui_default_bot_name">Answer Bot</string>
+    <string name="zui_dialog_email_error">E-mail non valide</string>
+    <string name="zui_dialog_email_hint">Adresse e-mail</string>
+    <string name="zui_failed_message_copy">Copier</string>
+    <string name="zui_failed_message_delete">Supprimer</string>
+    <string name="zui_failed_message_retry">Réessayer</string>
+    <string name="zui_hint_type_message">Saisissez un message…</string>
+    <string name="zui_label_connecting">Connexion en cours…</string>
+    <string name="zui_label_dialog_delete_btn">Supprimer le message</string>
+    <string name="zui_label_dialog_retry_btn">Renvoyer</string>
+    <string name="zui_label_failed">Échec de l’envoi</string>
+    <string name="zui_label_reconnecting">Reconnexion en cours</string>
+    <string name="zui_label_reconnecting_failed">Échec de la connexion.</string>
+    <string name="zui_label_send">Envoyer</string>
+    <string name="zui_label_sent">Envoyé</string>
+    <string name="zui_label_tap_retry">Appuyez pour réessayer</string>
+    <string name="zui_message_log_article_opened_formatter">%1$s a ouvert l’article \« %2$s\ »</string>
+    <string name="zui_message_log_article_suggestion_message">J’ai trouvé ces articles :</string>
+    <string name="zui_message_log_attachment_sending_failed">Impossible d’envoyer la pièce jointe</string>
+    <string name="zui_message_log_default_visitor_name">Visiteur</string>
+    <string name="zui_message_log_message_attachment_type_not_supported">Type de pièce jointe non pris en charge</string>
+    <string name="zui_message_log_message_attachments_not_supported">Pièces jointes non prises en charge</string>
+    <string name="zui_message_log_message_failed_to_send">[Échec de l’envoi]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size">Taille maximum dépassée (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter">%1$s a sélectionné %2$s</string>
+    <string name="zui_retry_button_label">Réessayer</string>
+    <string name="zui_toolbar_title">Contactez-nous</string>
+    <string name="zui_unable_open_file">Ouverture du fichier impossible.</string>
+</resources>
